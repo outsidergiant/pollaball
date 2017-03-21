@@ -1,0 +1,31 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x106)
+    Vendor:   Intel
+    VRAM:     425 MB
+    Driver:   8.15.10.2342
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.899 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Roll a Ball\Builds\Roll a Ball_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 2726x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 416.847137 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2eb0 -> priority: 1 
